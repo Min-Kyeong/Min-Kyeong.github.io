@@ -7,11 +7,9 @@
 	align-items: center;
 }
 .custom {
-    background-image: url("..images/cherry.jpg") no-repeat;
     height: 440px;
     border-radius: 10px;
 }
 .block {
     align-items: center;
-}
 }
